@@ -6,3 +6,4 @@ sou Rogério Tavares !!Depois de uma longa e ainda interminável pandemia....Apr
 
 atualmente não estou trabalhando.
 
+🔇
