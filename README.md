@@ -4,6 +4,4 @@ sou Rogério Tavares !!Depois de uma longa e ainda interminável pandemia....Apr
 <!--
 **rogtavares/rogtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-atualmente não estou trabalhando.
-
 🔇
