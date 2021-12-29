@@ -13,7 +13,7 @@ Firme ?! 👋
 
 - 😄 "é gente de quem" ?  (Usando o diakmleto laranjalense).
 - ⚡ Curiosidade: tenho uma cachorra de estimação chamada Suzii, que fica no meu lado, durante trabalho. 
--  
+
 
 ![GE-TECHNNOLOGY--DEV jpg-1836x1836](https://user-images.githubusercontent.com/91990479/147615534-32381b15-ddd4-4009-b85b-2fb92d0a8d80.jpg)
 
