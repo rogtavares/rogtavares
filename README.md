@@ -9,7 +9,7 @@ Atualmente,programador em formação, entusiasta em tecnologia e conhecimentos a
 
 Firme ?! 👋
 
-- ☕ Estou aprendendo programar 
+- ☕ Estou aprendendo programar para virar  Mike Tyson da  programação . 
 
 - 😄 "é gente de quem" ?  (Usando o diakmleto laranjalense).
 - ⚡ Curiosidade: tenho uma cachorra de estimação chamada Suzii, que fica no meu lado, durante trabalho. 
