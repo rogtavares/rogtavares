@@ -19,9 +19,3 @@ Firme ?! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogtavares)
-
-   iv class="social pf-nav-social" data-hover-hint="navSocia
-      
-!GE-TECHNNOLOGY--DEV jpg-1836x1836](https://user-images.githubusercontent.com/91990479/147615534-32381b15-ddd4-4009-b85b-2fb92d0a8d
-
-<!--
