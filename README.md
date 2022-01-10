@@ -1,20 +1,20 @@
   Gente !! 
 Sou Rogério Tavares !!Depois de uma longa e ainda interminável pandemia , começei a programar também alem das minha artes.
-programação  pode ser sua melhor amigo ou seu pior inimigo. Depende simplesmente de como você o usa e para que serve.
+Programação  pode ser sua melhor amigo ou seu pior inimigo. Depende simplesmente de como você o usa e para que serve.
 
 sempre buscando conhecer VS Codemelhor  e sinceramente fico maravilhado com as extensões que existem lá... 
 
 
 Gostaria de conectar o photoshop com o VS Code, ainda não estudei para iss,
 
-Atualmente,programador em formação, entusiasta em tecnologia e conhecimentos avançados em: Adobe Photoshop, Adobe Premiere, Adobe After Effect , Cinema 4D, 3D Max.
+Atualmente sou programador em formação, entusiasta em tecnologia e conhecimentos avançados em: Adobe Photoshop, Adobe Premiere, Adobe After Effect , Cinema 4D, 3D Max.
 
 
 Firme ?! 👋
 
 - ☕ Estou aprendendo programar para virar  " Mike Tyson da programação "  
 
-- 😄 "é gente de quem" ?  (Usando o diakmleto laranjalense).
+- 😄 "é gente de quem" ?  (Usando o diakwleto laranjalense).
 - ⚡ Curiosidade: tenho uma cachorra de estimação chamada Suzii, que fica no meu lado, durante trabalho. 
 
 
