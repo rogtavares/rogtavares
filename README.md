@@ -21,7 +21,7 @@ Firme ?! 👋
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogtavares)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogtavares)  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 ![GE-TECHNNOLOGY--DEV jpg-1836x1836](https://user-images.githubusercontent.com/91990479/148709724-e948396d-1734-4ed9-9e83-5b3499b7fb3d.jpg)
