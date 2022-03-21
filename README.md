@@ -7,7 +7,7 @@ sempre buscando conhecer VS Code melhor e sinceramente fico maravilhado com as e
 
 Gostaria de conectar o photoshop com o VS Code, ainda não consegui.
 
-Atualmente sou programador em formação, entusiasta em tecnologia e conhecimentos avançados em: Adobe Photoshop, Adobe Premiere, Adobe After Effect , Cinema 4D, 3D Max.
+Atualmente sou programador em formação,  e maluco em em tecnologia e conhecimentos avançados em: Adobe Photoshop, Adobe Premiere, Adobe After Effect , Cinema 4D, 3D Max.
 
 
 Firme ?! 👋
