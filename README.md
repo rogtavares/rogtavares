@@ -25,10 +25,12 @@ Firme ?! 👋
  <a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
+
+
 ![GE-TECHNNOLOGY--DEV jpg-1836x1836](https://user-images.githubusercontent.com/91990479/148709724-e948396d-1734-4ed9-9e83-5b3499b7fb3d.jpg)
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0MTmIi3d0BqsWFr97VnEm2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 
 </div>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
