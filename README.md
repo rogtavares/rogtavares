@@ -1,4 +1,4 @@
-  Gente !! 
+Gente !! 
 Sou Rogério Tavares !!Depois de uma longa e ainda interminável pandemia , começei a programar também alem das minha artes.
 Programação  pode ser sua melhor amigo ou seu pior inimigo. Depende simplesmente de como você o usa e para que serve.
 
