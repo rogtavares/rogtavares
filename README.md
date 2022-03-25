@@ -1,18 +1,15 @@
 Gente !! 
-Sou Rogério Tavares !!Sou programador em formação,  e apaixonado em tecnologia
-Programação  pode ser sua melhor amigo ou seu pior inimigo. Depende simplesmente de como você o usa e para que serve.
+Sou Rogério Tavares !!Sou programador em formação,  e apaixonado em tecnologia.
 
+Educação muda vidas. Estudar tecnologia então, nem se fala!
 Que a tecnologia só avança, todos nós sabemos, não é mesmo?
 Então ESTUDE !!
+
+O setor de tecnologia é um campo promissor para pessoas mais de 50 anos, bons salários e grandes oportunidades de trabalho remoto. Pessoas +50 são particularmente adequados para esse mercado de ser tornar grandes programador(a) front-end/mobile/back-end/etc;
  
-
-
-Gostaria de conectar o photoshop com o VS Code, ainda não consegui.
-
-
 Firme ?! 👋
 
-- ☕ Estou aprendendo  e estudando  para virar  " Mike Tyson da programação "  
+- Modelo 70:20:10, aplique !!! 
 
 - 😄 "é gente de quem" ?  (Usando o diakwleto laranjalense).
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. 
