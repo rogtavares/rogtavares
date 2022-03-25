@@ -15,7 +15,7 @@ Firme ?! 👋
 - ☕ Estou aprendendo  e estudando  para virar  " Mike Tyson da programação "  
 
 - 😄 "é gente de quem" ?  (Usando o diakwleto laranjalense).
-- ⚡ Curiosidade: tenho uma cachorra de estimação chamada Suzii, que fica no meu lado, durante trabalho. 
+- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. 
 
 
 
