@@ -9,7 +9,7 @@ O setor de tecnologia é um campo promissor para pessoas mais de 50 anos, bons s
  
 Firme ?! 👋
 
-- Modelo 70:20:10, aplique !!! 
+- Modelo 70:20:10, aplique !!! O Que É, Por Que É importante ? Coloca no google para saber d
 
 - 😄 "é gente de quem" ?  (Usando o diakwleto laranjalense).
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. 
