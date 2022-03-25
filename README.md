@@ -12,7 +12,7 @@ Firme ?! 👋
 - Modelo 70:20:10, aplique !!! O Que É, Por Que É importante ? Coloca no google para saber !!
 
 - 😄 "é gente de quem" ?  (Usando o diakwleto laranjalense).
-- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. 
+- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
 Curta RT no instragram :
 
