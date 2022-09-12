@@ -3,11 +3,9 @@ Sou Rogério Tavares !!Sou programador em formação,  e apaixonado em tecnologi
 
 Educação muda vidas. Estudar tecnologia então, nem se fala!
 Que a tecnologia só avança, todos nós sabemos, não é mesmo?
-Então ESTUDE !!
 
 O setor de tecnologia é um campo promissor para pessoas mais de 50 anos, bons salários e grandes oportunidades de trabalho remoto. Pessoas +50 são particularmente adequados para esse mercado de ser tornar grandes programador(a) em  front-end/mobile/back-end/etc;
  
-Firme ?! 👋
 
 - Modelo 70:20:10, aplique !!! O Que É, Por Que É importante ? Coloca no google para saber !!
 
