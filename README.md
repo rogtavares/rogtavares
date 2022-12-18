@@ -1,7 +1,7 @@
 
 Sou Rogério Tavares !!Sou programador em formação,  e apaixonado em tecnologia.
-Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo q ue vivemos
-O setor de tecnologia é um campo promissor para pessoas mais de 50 anos, bons salários e grandes oportunidades de trabalho remoto. Pessoas +50 são particularmente adequados para esse mercado de ser tornar grandes programador(a) em  front-end/mobile/back-end/etc
+Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo que vivemos
+O setor de tecnologia é um campo promissor para pessoas mais de 50 anos, bons salários e grandes oportunidades de trabalho remoto. Pessoas +50 são particularmente adequados para esse mercado de ser tornar grandes programador(a) em  front-end/mobile/back-end/etcs
  
 
 - Modelo 70:20:10, aplique !!! O Que É, Por Que É importante ? Coloca no google para saber !!
