@@ -9,8 +9,7 @@ Sua futura profissão está em constante inovação.
 - 😄 "é gente_de_quem" ?  (Usando o diakwleto laranjalense).
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
-Curta RT no instragram :
-
+Curta RT 
 
 </a>
 
