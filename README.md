@@ -21,10 +21,7 @@ Curta RT
 
 </div>
 
-
-
-![GE-TECHNNOLOGY--DEV jpg-1836x1836](https://user-images.githubusercontent.com/91990479/148709724-e948396d-1734-4ed9-9e83-5b3499b7fb3d.jpg)
-
+![Gabarito_CanecaChoppVidro-470ml GE TAVARES](https://user-images.githubusercontent.com/91990479/227789471-99121773-9481-4815-97ff-eefb6713617c.png)
 
 
 <div dir="auto"><br>
