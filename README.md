@@ -23,8 +23,6 @@ Sua futura profissão está em constante inovação.
 </div>
 
 ![Gabarito_CanecaChoppVidro-470ml GE TAVARES](https://user-images.githubusercontent.com/91990479/227789471-99121773-9481-4815-97ff-eefb6713617c.png)
-
-
 <div dir="auto"><br>
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
