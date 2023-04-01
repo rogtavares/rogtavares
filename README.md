@@ -22,7 +22,6 @@ Sua futura profissão está em constante inovação.
 
 </div>
 
-!
 ![GIT-ARTE_README--2362x945](https://user-images.githubusercontent.com/91990479/229309168-79fbcc2b-394d-4db6-bf59-3961098967bb.jpg)
 
 <div dir="auto"><br>
