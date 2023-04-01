@@ -9,7 +9,7 @@ Sua futura profissão está em constante inovação.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
-# *Clica-abaixo.tta** 
+# *Clica-abaixo.tta*
 
 </a>
 
@@ -21,6 +21,8 @@ Sua futura profissão está em constante inovação.
 <a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
+
 
 ![Gabarito_CanecaChoppVidro-470ml GE TAVARES](https://user-images.githubusercontent.com/91990479/227789471-99121773-9481-4815-97ff-eefb6713617c.png)
 
