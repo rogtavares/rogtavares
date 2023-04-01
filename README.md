@@ -9,7 +9,7 @@ Sua futura profissão está em constante inovação.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
-# *Clica-abaixo.tta** 
+# *Clica-abaixo.tta*
 
 </a>
 
