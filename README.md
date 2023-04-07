@@ -9,7 +9,7 @@ Sua futura profissão está em constante inovação.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
-# *Clica-abaixo.tta*
+# *REDES SOCIAS RT*
 
 </a>
 
@@ -28,6 +28,7 @@ Sua futura profissão está em constante inovação.
 
 <div dir="auto"><br>
 
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
@@ -44,4 +45,13 @@ Sua futura profissão está em constante inovação.
   <img align="center" alt="RT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-  
+
+### Distintivos
+
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/rogtavares"><img src="https://github-readme-stats.vercel.app/api?username=rogtavares&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="estatísticas do GitHub de rogtavares" /></a>
+
+<a href="http://www.github.com/rogtavares"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rogtavares&bg_color=1c1917&color=ffffff&line=0891b2&point =ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/rogtavares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogtavares&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
