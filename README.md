@@ -1,11 +1,11 @@
 
 Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP , mais 50+,  e apaixonado em tecnologia.
-Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo que vivemos
-Meu sonho de estudar na área da TI sempre existiu, consegui depois de 49 anos’
- 
-Esteja ciente que vai estudar muito.
-Sua futura profissão está em constante inovação.
+Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo que vivemos ...
 
+Meu sonho de estudar na área da TI sempre existiu, consegui depois de 49 anos
+ Ja programei 25 anos atrás, retomei o gosto por programar mas estava com 10 anos de defasagem! O mundo havia mudado!
+Resolvi investir nos estudos e nunca mais parei!
+Sua futura profissão está em constante inovação.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
@@ -41,7 +41,6 @@ Sua futura profissão está em constante inovação.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
    <img align="center" alt="RT-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="RT-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
