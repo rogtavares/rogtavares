@@ -1,5 +1,5 @@
 
-Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP , mais 50+,  e apaixonado em tecnologia e design gráfico 3D,
+Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP , mais 50+,  e apaixonado em tecnologia e design gráfico 3D.
 
 Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo que vivemos ...
 
