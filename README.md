@@ -3,9 +3,8 @@ Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. S
 Sou muito AUTODIDATATA gosto de aprender por conta própria, que tornou-se habilidade crucial nesse mundo que vivemos ...
 
 Meu sonho de estudar na área da TI sempre existiu, consegui depois de 49 anos
- Ja programei 25 anos atrás, retomei o gosto por programar mas estava com 10 anos de defasagem! O mundo havia mudado!
+Ja programei 25 anos atrás, retomei o gosto por programar mas estava com 10 anos de defasagem! O mundo havia mudado!
 Resolvi investir nos estudos e nunca mais parei!
-Sua futura profissão está em constante inovação.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 
