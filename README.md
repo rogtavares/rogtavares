@@ -1,5 +1,5 @@
 
-Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP , mais +50,  e apaixonado em tecnologia e design gráfico 3D.
+Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP ,  50+,  e apaixonado em tecnologia e design gráfico 3D.
 
 Sou (muito)AUTODIDATATA e gosto  de aprender por conta própria,que tornou-se habilidade crucial nesse mundo que vivemos ...
 
@@ -10,8 +10,8 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
 - ⚡ Curiosidade_2: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
+- ⚡ Curiosidade_3: Não seja inimigo do I.A.
 
-- ⚡ Curiosidade_3: Não seja inimigo do I.A
 
 Estude mais ! 
 
