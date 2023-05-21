@@ -8,8 +8,7 @@ Já programei 25 anos atrás, retomei o gosto por programar mas estava com 10 an
 Resolvi investir nos estudos e nunca mais parei !
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás.  Estou certo ?
-- ⚡ Curiosidade_2: Risco de emprego
-Os empregos de amanhã serão ainda melhores do que os empregos de hoje. Estude mais ! 
+- ⚡ Curiosidade_2: Os empregos de amanhã serão ainda melhores do que os empregos de hoje. Estude mais ! 
 
 # *REDES SOCIAS RT*
 
