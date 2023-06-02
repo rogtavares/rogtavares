@@ -9,11 +9,12 @@ O mundo havia mudado!
 Resolvi investir fortes nos estudos e nunca mais parei !
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
-- ⚡ Curiosidade_2: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_3: Não seja inimigo do I.A.
+- ⚡ Curiosidade_2: Eu hackeio no meu tempo livre.
+- ⚡ Curiosidade_3: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
+- ⚡ Curiosidade_4: Não seja inimigo do I.A.
 
 
-Estude mais ! 
+Estude (bem) mais ! 
 
 # *REDES SOCIAS RT*
 
