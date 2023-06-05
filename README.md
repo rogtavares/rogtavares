@@ -1,5 +1,5 @@
 
-Sou **Rogério Tavares** !! Um desenvolvedor de software de Laranjal Paulista. SP ,  50+,  e apaixonado em tecnologia e design gráfico 3D.
+Sou **Rogério Tavares** !! Um desenvolvedor de software ,  Dev 50+" do backend , e apaixonado em  design gráfico 3D.
 
 Sou (muito)AUTODIDATATA e gosto  de aprender por conta própria,que tornou-se habilidade crucial nesse mundo que vivemos ...
 
@@ -14,7 +14,7 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 - ⚡ Curiosidade_4: Não seja inimigo do I.A.
 
 
-Estude (bem) mais ! 
+Estude (bem) mais ! Disso não há como fugir!
 
 # *REDES SOCIAS RT*
 
