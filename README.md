@@ -14,7 +14,7 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 - ⚡ Curiosidade_4: Não seja inimigo do I.A.
 
 
-Estude (bem) mais ! Disso não há como fugir!
+Estude bastante ! Disso não há como fugir !
 
 
 
