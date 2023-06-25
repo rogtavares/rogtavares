@@ -17,14 +17,14 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 Estude bastante ! Disso não há como fugir !
 
 
-
 *Ferramentas favoritas* :
 # Intellij, Photoshop, GitHub, Evernote, Spotify  e caneta e papel. 
 
 
 
-# *REDES SOCIAS RT*
 
+
+# *REDES SOCIAS RT*
 </a>
 
 
