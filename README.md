@@ -18,8 +18,8 @@ Estude bastante ! Disso não há como fugir !
 
 
 
-*Ferramentas favoritas* :
-Intellij, Photoshop, GitHub, Evernote, Spotify  e caneta e papel. 
+# *Ferramentas favoritas* :
+# Intellij, Photoshop, GitHub, Evernote, Spotify  e caneta e papel. 
 
 # *REDES SOCIAS RT*
 
