@@ -4,7 +4,7 @@ Sou **Rogério Tavares** !! Um desenvolvedor de software ,  Dev 50+" do backend 
 Sou (muito)AUTODIDATATA e gosto  de aprender por conta própria,que tornou-se habilidade crucial nesse mundo que vivemos ...
 
 Meu sonho de estudar na área da TI sempre existiu,consegui depois  que fiz 49 anos.
-Já programei 25 anos atrás, retomei o gosto por programar mas estava com 13 anos de defasagem! 
+Já programei 25 anos atrás, retomei o gosto por programar mas estava com 15 anos de defasagem! 
 O mundo havia mudado!
 Resolvi investir fortes nos estudos e nunca mais parei !
 
