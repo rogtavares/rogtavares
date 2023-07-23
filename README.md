@@ -8,7 +8,7 @@ Já programei 25 anos atrás, retomei o gosto por programar mas estava com 13 an
 O mundo havia mudado!
 Resolvi investir fortes nos estudos e nunca mais parei !
 
-- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Estou certo ?
+- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Eu vi isso ! 
 - ⚡ Curiosidade_2: Eu hackeio ( COISA DO BEM) no meu tempo livre.
 - ⚡ Curiosidade_3: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
 - ⚡ Curiosidade_4: Não seja inimigo do I.A.
