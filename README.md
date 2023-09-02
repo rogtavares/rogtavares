@@ -23,7 +23,6 @@ Estude bastante ! Disso não há como fugir !
 
 
 
-
 # *REDES SOCIAS RT*
 </a>
 
