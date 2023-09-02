@@ -9,7 +9,7 @@ Resolvi investir fortemente nos estudos e nunca mais parei.
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Eu vi isso ! 
 - ⚡ Curiosidade_2: Eu hackeio (de forma positiva) no meu tempo livre.
 - ⚡ Curiosidade_3: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_4: Não seja inimigo do I.A.
+- ⚡ Curiosidade_4: Não seja inimigo do I.A.  As ferramentas de programação de IA generativa estão evoluindo muito rápido 
 
 
 
