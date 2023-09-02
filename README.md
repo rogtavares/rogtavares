@@ -1,15 +1,13 @@
 
-Sou **Rogério Tavares** !! Um desenvolvedor de software ,  Dev 50+" do backend , e apaixonado em  design gráfico 3D.
 
-Sou (muito)AUTODIDATATA e gosto  de aprender por conta própria,que tornou-se habilidade crucial nesse mundo que vivemos ...
+Sou um desenvolvedor de software e apaixonado por design gráfico 3D. Sou um autodidata e gosto de aprender por conta própria, o que se tornou uma habilidade crucial nesse mundo que vivemos.
 
-Meu sonho de estudar na área da TI sempre existiu,consegui depois  que fiz 49 anos.
-Já programei 25 anos atrás, retomei o gosto por programar mas estava com 15 anos de defasagem! 
-O mundo havia mudado!
-Resolvi investir fortes nos estudos e nunca mais parei !
+Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois que fiz 49 anos. Já havia programado há 25 anos, mas havia perdido o gosto por isso. Quando retomei, percebi que estava com 15 anos de defasagem. O mundo havia mudado muito!
+
+Resolvi investir fortemente nos estudos e nunca mais parei.
 
 - ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Eu vi isso ! 
-- ⚡ Curiosidade_2: Eu hackeio ( COISA DO BEM) no meu tempo livre.
+- ⚡ Curiosidade_2: Eu hackeio (de forma positiva) no meu tempo livre.
 - ⚡ Curiosidade_3: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
 - ⚡ Curiosidade_4: Não seja inimigo do I.A.
 
@@ -19,13 +17,14 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 
 
 
-# *REDES SOCIAS RT*
-</a>
 
+
+Cliqua aii 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/getavares) 
 <a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 
 
@@ -57,5 +56,7 @@ Resolvi investir fortes nos estudos e nunca mais parei !
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-###  Obrigado
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0MTmIi3d0BqsWFr97VnEm2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
