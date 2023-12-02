@@ -4,14 +4,12 @@ Sou um desenvolvedor de software e apaixonado por design gráfico 3D. Sou um aut
 
 Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois que fiz 49 anos. Já havia programado há 25 anos, mas havia perdido o gosto por isso. Quando retomei, percebi que estava com 15 anos de defasagem. O mundo havia mudado muito!
 
-Resolvi investir fortemente nos estudos e nunca mais parei.
+Resolvi investir fortemente na minha formação e nunca mais parei.
 
-- ⚡ Curiosidade: O Java de agora é muito melhor que o Java de 20 anos atrás. Eu vi isso ! 
-- ⚡ Curiosidade_2: Eu hackeio (de forma positiva) no meu tempo livre.
-- ⚡ Curiosidade_3: Os empregos de amanhã serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_4: Não seja inimigo do I.A.  As ferramentas de programação de IA generativa estão evoluindo muito rápido 
-
-
+- ⚡ Curiosidade_1: O Java atual é muito mais avançado que o Java de 25 anos atrás. Eu pude testemunhar isso! 
+- ⚡ Curiosidade_2: No meu tempo livre, gosto de praticar artes 3D .
+- ⚡ Curiosidade_3: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
+- ⚡ Curiosidade_4: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
 
 
 
@@ -19,7 +17,9 @@ Resolvi investir fortemente nos estudos e nunca mais parei.
 
 
 
-Cliqua aii 
+
+
+Clique ai 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/getavares) 
