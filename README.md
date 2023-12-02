@@ -1,8 +1,9 @@
 
 
-Sou um desenvolvedor de software e apaixonado por design gráfico 3D. Sou um autodidata e gosto de aprender por conta própria, o que se tornou uma habilidade crucial nesse mundo que vivemos.
+"Sou um desenvolvedor de software e apaixonado por design gráfico 3D. Sou um autodidata e gosto de aprender por conta própria, o que é uma habilidade essencial no mundo que vivemos."
 
-Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois que fiz 49 anos. Já havia programado há 25 anos, mas havia perdido o gosto por isso. Quando retomei, percebi que estava com 15 anos de defasagem. O mundo havia mudado muito!
+"Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois de completar 49 anos. Já havia programado há 25 anos, mas havia perdido a paixão por isso. Quando retomei, percebi que estava com 20 anos de atraso. O mundo havia mudado muito!"
+
 
 Resolvi investir fortemente na minha formação e nunca mais parei.
 
