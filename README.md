@@ -5,7 +5,7 @@
 "Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois de completar 49 anos. Já havia programado há 25 anos, mas havia perdido a paixão por isso. Quando retomei, percebi que estava com 20 anos de atraso. O mundo havia mudado muito!"
 
 
-Eu sou feita de futuro
+Eu sou feito de futuro
 
 - ⚡ Curiosidade_1: O Java atual é muito mais avançado que o Java de 25 anos atrás. Eu pude testemunhar isso! 
 - ⚡ Curiosidade_2: No meu tempo livre, gosto de praticar artes 3D .
