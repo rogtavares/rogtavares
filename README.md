@@ -10,7 +10,7 @@ Eu sou feito de futuro
 - ⚡ Curiosidade_1: O Java atual é muito mais avançado que o Java de 25 anos atrás. Eu pude testemunhar isso! 
 - ⚡ Curiosidade_2: No meu tempo livre, gosto de praticar artes 3D .
 - ⚡ Curiosidade_3: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_4:Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
+- ⚡ Curiosidade_4: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
 - ⚡ Curiosidade_5: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
 
 
