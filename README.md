@@ -60,4 +60,7 @@ Eu sou feito de futuro
  <img align="center" alt="RT-Java" height="33" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
+[Música durante o trabalho é perfeita](https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358)
 
+
+Ge.t_v11
