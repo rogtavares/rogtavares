@@ -81,5 +81,7 @@ Eu sou feito de futuro
 **_Música durante o trabalho  _** 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358)
 
-![spcode-0MTmIi3d0BqsWFr97VnEm2.jpeg](..%2F..%2F..%2F..%2FDownloads%2Fspcode-0MTmIi3d0BqsWFr97VnEm2.jpeg)
-Ge.t_v13
+
+
+
+Ge.t_v14
