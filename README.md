@@ -12,6 +12,7 @@ Eu sou feito de futuro
 - ⚡ Curiosidade_3: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
 - ⚡ Curiosidade_4: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
 - ⚡ Curiosidade_5: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
+- ⚡ Curiosidade_6: acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
 
 
 
@@ -77,8 +78,8 @@ Eu sou feito de futuro
 
 
 
-**_Música durante o trabalho  _Clique aqui**_ 
+**_Música durante o trabalho  _** 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358)
 
-
-Ge.t_v12
+![spcode-0MTmIi3d0BqsWFr97VnEm2.jpeg](..%2F..%2F..%2F..%2FDownloads%2Fspcode-0MTmIi3d0BqsWFr97VnEm2.jpeg)
+Ge.t_v13
