@@ -1,8 +1,9 @@
 
 
-"Sou um desenvolvedor de software e apaixonado por design gráfico 3D. Sou um autodidata e gosto de aprender por conta própria, o que é uma habilidade essencial no mundo que vivemos."
+"Sou desenvolvedor de software e apaixonado por design gráfico 3D. Autodidata por natureza, valorizo a habilidade de aprender de forma independente, algo essencial no mundo atual.
 
-"Meu sonho de estudar na área de TI sempre existiu, e consegui realizá-lo depois de completar 49 anos. Já havia programado há 30 anos, mas havia perdido a paixão por isso. Quando retomei, percebi que estava com 20 anos de atraso. O mundo havia mudado muito!"
+Sempre tive o sonho de estudar na área de TI, e consegui realizá-lo aos 49 anos. Já havia programado há 30 anos, mas, com o tempo, perdi a paixão pela área. 
+Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mundo havia mudado  muito radicalmente!"
 
 
 
@@ -12,10 +13,15 @@
 - ⚡ Curiosidade_2: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
 - ⚡ Curiosidade_3: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
 - ⚡ Curiosidade_4: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
-- ⚡ Curiosidade_5: acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
+- ⚡ Curiosidade_5: Acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
 
 
+_penso : 
+Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
+Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
+
+Escolha um novo desafio, É CORRE atrras. 
 
 
 
@@ -83,4 +89,4 @@
 
 
 
-Ge.t_v15
+Ge.t_v16
