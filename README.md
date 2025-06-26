@@ -21,7 +21,7 @@ Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acab
 
 Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
 
-Escolha um novo desafio, É CORRE atrras. 
+Escolha um novo desafio, É CORRE atrás. 
 
 
 
