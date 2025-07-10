@@ -17,6 +17,10 @@ Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mun
 - ⚡ Curiosidade_5: Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo e melhorar a vida das pessoas.
 - ⚡ Curiosidade_6: Acredito que a diversidade e a inclusão são fundamentais para o sucesso de qualquer equipe ou organização.
 - ⚡ Curiosidade_7: Seja mais produtivo com o Pomodoro — sprints de 25 minutos para manter o foco!
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rogtavares&show_icons=true&theme=radical" alt="Rog Tavares GitHub Stats" />
 _penso : 
 Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
