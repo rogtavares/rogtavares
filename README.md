@@ -14,16 +14,15 @@ Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mun
 - ⚡ Curiosidade_3: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
 - ⚡ Curiosidade_4: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
 - ⚡ Curiosidade_5: Acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
-
-
+- ⚡ Curiosidade_5: Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo e melhorar a vida das pessoas.
+- ⚡ Curiosidade_6: Acredito que a diversidade e a inclusão são fundamentais para o sucesso de qualquer equipe ou organização.
+- ⚡ Curiosidade_7: Seja mais produtivo com o Pomodoro — sprints de 25 minutos para manter o foco!
 _penso : 
 Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
 Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
 
-Escolha um novo desafio, É CORRE atrras. 
-
-
+Escolha um novo desafio, É CORRE atras. 
 
 
 
