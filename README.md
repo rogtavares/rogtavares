@@ -48,10 +48,7 @@ Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter 
 Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende. 
 É assim que você aprende e cresce.
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogtavares&layout=compact&theme=radical" alt="Rog Tavares Top Languages" />
-
+---
 ## 🌐 Vamos nos Conectar?
 
 
