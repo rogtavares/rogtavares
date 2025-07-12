@@ -39,10 +39,7 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 - ⚡ A técnica **Pomodoro** (25 min de foco + 5 min de pausa) aumenta drasticamente a produtividade.
 
 ---
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogtavares&show_icons=true&theme=radical" alt="Rog Tavares GitHub Stats" />
+## 📚 Aprendizado Contínuo
 _penso : 
 Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
@@ -120,4 +117,4 @@ Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você 
 
 
 
-Ge.t_v24.0 
+Ge.t_v25.0 
