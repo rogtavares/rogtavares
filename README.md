@@ -1,22 +1,44 @@
+# 👨‍💻 Rogério Tavares
 
+**Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
 
-"Sou desenvolvedor de software e apaixonado por design gráfico 3D. Autodidata por natureza, valorizo a habilidade de aprender de forma independente, algo essencial no mundo atual.
+Sou desenvolvedor de software e apaixonado por design gráfico 3D.  
+Autodidata por natureza, valorizo a capacidade de aprender de forma independente — algo essencial no mundo acelerado em que vivemos.
 
-Sempre tive o sonho de estudar na área de TI, e consegui realizá-lo aos 49 anos. Já havia programado há 30 anos, mas, com o tempo, perdi a paixão pela área. 
-Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mundo havia mudado  muito radicalmente!"
+🎯 Sempre sonhei em estudar na área de TI, e realizei esse sonho aos **49 anos**.  
+Há mais de 30 anos eu já programava, mas com o tempo, perdi a paixão pela tecnologia.  
+Ao retornar, percebi o quanto o mundo havia evoluído: **estava com 25 anos de atraso** — mas com uma vontade imensa de recuperar o tempo perdido!
 
+Hoje, sigo determinado a evoluir, criar e transformar ideias em soluções.
 
+---
 
-📚 Sempre estudando e evoluindo em tecnologias como  AWS , Salesforce , Spring Boot, API RESTful e DevOps.
+## 🚀 Em Constante Evolução
 
-- ⚡ Curiosidade_1: O Java atual é muito mais avançado que o Java de 25 anos atrás. Eu pude testemunhar isso!
-- ⚡ Curiosidade_2: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_3: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
-- ⚡ Curiosidade_4: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
-- ⚡ Curiosidade_5: Acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
-- ⚡ Curiosidade_5: Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo e melhorar a vida das pessoas.
-- ⚡ Curiosidade_6: Acredito que a diversidade e a inclusão são fundamentais para o sucesso de qualquer equipe ou organização.
-- ⚡ Curiosidade_7: Seja mais produtivo com o Pomodoro — sprints de 25 minutos para manter o foco!
+Atualmente, me aprofundo em tecnologias modernas com foco em:
+
+- ☁️ **AWS (Amazon Web Services)**
+- 🧠 **Salesforce**
+- ☕ **Spring Boot**
+- 🌐 **APIs RESTful**
+- 🔧 **DevOps e Integrações**
+- 📊 **Datadog e Observabilidade**
+- 🤖 **Inteligência Artificial Generativa**
+
+---
+
+## ⚡ Curiosidades & Crenças
+
+- ⚡ **Java hoje** é infinitamente mais poderoso do que há 25 anos — e eu presenciei essa transformação!
+- ⚡ Os **empregos do futuro** serão ainda melhores do que os de hoje.
+- ⚡ **Aprendizado contínuo é obrigatório** — dedique ao menos **30% do tempo** ao estudo.
+- ⚡ **IA Generativa** está revolucionando o desenvolvimento. **Use-a como aliada**, não como ameaça.
+- ⚡ As **máquinas ultrapassarão a velocidade humana** — e isso já começou.
+- ⚡ A **tecnologia transforma realidades** e melhora vidas.
+- ⚡ **Diversidade e inclusão** são essenciais para equipes de alto desempenho.
+- ⚡ A técnica **Pomodoro** (25 min de foco + 5 min de pausa) aumenta drasticamente a produtividade.
+
+---
 
 
 <div align="center">
@@ -26,10 +48,14 @@ Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acab
 
 Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
 
-Escolha um novo desafio, É CORRE atrras. 
+Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende. 
+É assim que você aprende e cresce.
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogtavares&layout=compact&theme=radical" alt="Rog Tavares Top Languages" />
 
+## 🌐 Vamos nos Conectar?
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
@@ -94,4 +120,4 @@ Escolha um novo desafio, É CORRE atrras.
 
 
 
-Ge.t_v16
+Ge.t_v24.0 
