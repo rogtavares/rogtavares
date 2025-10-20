@@ -2,8 +2,6 @@
 
 **Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
 
-> *"Simple artist in search of a conquest."* 🎨
-
 Sou desenvolvedor de software e apaixonado por design gráfico 3D.  
 Autodidata por natureza, valorizo a capacidade de aprender de forma independente — algo essencial no mundo acelerado em que vivemos.
 
@@ -29,7 +27,7 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 
 ---
 
-## ⚡ Curiosidades & Crenças
+## ⚡ Curiosidades RT 
 
 - ⚡ **Java hoje** é infinitamente mais poderoso do que há 25 anos — e eu presenciei essa transformação!
 - ⚡ Os **empregos do futuro** serão ainda melhores do que os de hoje.
@@ -42,28 +40,31 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 
 ---
 ## 📚 Aprendizado Contínuo
+_penso : 
+Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
-> **Minha filosofia:**
-> 
-> 🔥 **Não pare de aprender** - Aprender é uma jornada que nunca deve acabar  
-> 🎯 **Seja curioso** - A curiosidade nos leva a ser ambiciosos  
-> 🚀 **Escolha novos desafios** - Corra atrás do que você não sabe  
-> 💡 **Pratique sempre** - Use o conhecimento como uma caixa de ferramentas
+Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
+
+Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende. 
+É assim que você aprende e cresce.
 
 ---
 ## 🌐 Vamos nos Conectar?
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/getavares) 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rogtavares)
+<a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
----
+
+
+</div>
 
 
 ![GIT-ARTE_README--2362x945](https://user-images.githubusercontent.com/91990479/229309927-6cc8681d-e593-452e-81f3-4fac91985d9f.jpg)
 
 
-## 🛠️ Tecnologias & Ferramentas
+<div dir="auto"><br>
 
 
 
@@ -108,16 +109,9 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 
 
 
----
-
-## 🎵 Trilha Sonora do Código
-
-**Música durante o trabalho:**  
+**_Música durante o trabalho  _** 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358)
 
----
 
-<div align="center">
-  <em>"Simple artist in search of a conquest." 🎨</em><br>
-  <strong>Ge.t_v25.0</strong>
-</div> 
+
+Ge.T_v27  
