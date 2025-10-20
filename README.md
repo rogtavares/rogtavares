@@ -32,12 +32,19 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 ## ⚡ Curiosidades RT
 
 ⚡ Java hoje é infinitamente mais poderoso do que há 25 anos — e tive a particularidade de testemunhar essa evolução.
+
 ⚡ Os empregos do futuro não serão apenas melhores, mas também mais humanos, criativos e centrados em propósito.
+
 ⚡ Aprendizado contínuo deixado de ser opcional: pesquisa pelo menos 30% do seu tempo em estudo e experimentação.
+
 ⚡ A IA Generativa está redefinindo o desenvolvimento de software. Use-a como parceira, não como substituta.
+
 ⚡ As máquinas já superaram a velocidade humana em tarefas específicas — e essa é apenas a ponta do iceberg.
+
 ⚡ Tecnologia, quando bem aplicada, transforma realidades e salva vidas.
+
 ⚡ A técnica Pomodoro (25 min de foco + 5 min de pausa) não é só eficaz — é essencial para manter a clareza mental e evitar o esgotamento.
+
 ⚡ Dominar conceitos fundamentais (algoritmos, estruturas de dados, arquitetura) é uma base para surfar qualquer onda tecnológica — mesmo que ainda nem existam.
 
 ---
