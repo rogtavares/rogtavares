@@ -2,15 +2,13 @@
 
 **Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
 
-Sou desenvolvedor de software e apaixonado por design gráfico 3D.  
-Autodidata por natureza, valorizo a capacidade de aprender de forma independente 
-— algo essencial no mundo acelerado em que vivemos.
+<div dir="auto"></div>
 
 🎯 Sempre sonhei em estudar na área de TI, e realizei esse sonho aos **49 anos**.  
 Há mais de 30 anos eu já programava, mas com o tempo, perdi a paixão pela tecnologia.  
 Ao retornar, percebi o quanto o mundo havia evoluído: **estava com 25 anos de atraso** — mas com uma vontade imensa de recuperar o tempo perdido!
 
-Hoje, sigo determinado a evoluir, criar e transformar ideias em soluções...
+</div>
 
 ---
 
@@ -118,4 +116,4 @@ O crescimento acontece fora da zona de conforto.
 
 
 
-Ge.T_v34
+Ge.T_v35
