@@ -50,12 +50,11 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 ---
 ## 📚 Aprendizado Contínuo
 _penso :_
-Não pare de aprender. Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
+Aprender é um processo contínuo — não um marco a ser atingido. Conhecimento só tem valor quando aplicado: transforme-o em ferramentas para resolver problemas reais.
 
-Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
-
-Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende.
-É assim que você aprende e cresce (muito).
+Mantenha uma curiosidade: é o motor da evolução técnica.
+Busque progresso o que você não domina.
+O crescimento acontece fora da zona de conforto.
 
 ---
 ## 🌐 Vamos nos Conectar?
