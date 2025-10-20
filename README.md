@@ -118,4 +118,4 @@ O crescimento acontece fora da zona de conforto.
 
 
 
-Ge.T_v32 
+Ge.T_v34
