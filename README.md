@@ -40,13 +40,12 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 
 ---
 ## 📚 Aprendizado Contínuo
-_penso : 
-Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
-Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
+> **Aprender é uma jornada sem fim.** Não se trata apenas de consumir informação, mas de transformar conhecimento em ferramentas reais — usadas quando desafios complexos exigem criatividade, lógica e visão.
 
-Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende. 
-É assim que você aprende e cresce.
+🔍 **Seja curioso.** Perguntas boas abrem portas melhores que respostas prontas.  
+🚀 **Busque o desconforto.** Crescemos onde o conhecimento acaba e a dúvida começa.  
+🎯 **Pratique com propósito.** Cada projeto, erro e experimento é um tijolo no seu futuro.
 
 ---
 ## 🌐 Vamos nos Conectar?
