@@ -3,13 +3,14 @@
 **Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
 
 Sou desenvolvedor de software e apaixonado por design gráfico 3D.  
-Autodidata por natureza, valorizo a capacidade de aprender de forma independente — algo essencial no mundo acelerado em que vivemos.
+Autodidata por natureza, valorizo a capacidade de aprender de forma independente 
+— algo essencial no mundo acelerado em que vivemos.
 
 🎯 Sempre sonhei em estudar na área de TI, e realizei esse sonho aos **49 anos**.  
 Há mais de 30 anos eu já programava, mas com o tempo, perdi a paixão pela tecnologia.  
 Ao retornar, percebi o quanto o mundo havia evoluído: **estava com 25 anos de atraso** — mas com uma vontade imensa de recuperar o tempo perdido!
 
-Hoje, sigo determinado a evoluir, criar e transformar ideias em soluções.
+Hoje, sigo determinado a evoluir, criar e transformar ideias em soluções...
 
 ---
 
@@ -18,34 +19,36 @@ Hoje, sigo determinado a evoluir, criar e transformar ideias em soluções.
 Atualmente, me aprofundo em tecnologias modernas com foco em:
 
 - ☁️ **AWS (Amazon Web Services)**
-- 🧠 **Salesforce**
-- ☕ **Spring Boot**
 - 🌐 **APIs RESTful**
+- ☕ **Spring Boot**
+- 🧩 **Microserviços**
 - 🔧 **DevOps e Integrações**
 - 📊 **Datadog e Observabilidade**
 - 🤖 **Inteligência Artificial Generativa**
+- 🧠 **Salesforce**
 
 ---
 
-## ⚡ Curiosidades RT 
+## ⚡ Curiosidades RT
 
-- ⚡ **Java hoje** é infinitamente mais poderoso do que há 25 anos — e eu presenciei essa transformação!
-- ⚡ Os **empregos do futuro** serão ainda melhores do que os de hoje.
-- ⚡ **Aprendizado contínuo é obrigatório** — dedique ao menos **30% do tempo** ao estudo.
-- ⚡ **IA Generativa** está revolucionando o desenvolvimento. **Use-a como aliada**, não como ameaça.
-- ⚡ As **máquinas ultrapassarão a velocidade humana** — e isso já começou.
-- ⚡ A **tecnologia transforma realidades** e melhora vidas.
-- ⚡ **Diversidade e inclusão** são essenciais para equipes de alto desempenho.
-- ⚡ A técnica **Pomodoro** (25 min de foco + 5 min de pausa) aumenta drasticamente a produtividade.
+⚡ Java hoje é infinitamente mais poderoso do que há 25 anos — e tive a particularidade de testemunhar essa evolução.
+⚡ Os empregos do futuro não serão apenas melhores, mas também mais humanos, criativos e centrados em propósito.
+⚡ Aprendizado contínuo deixado de ser opcional: pesquisa pelo menos 30% do seu tempo em estudo e experimentação.
+⚡ A IA Generativa está redefinindo o desenvolvimento de software. Use-a como parceira, não como substituta.
+⚡ As máquinas já superaram a velocidade humana em tarefas específicas — e essa é apenas a ponta do iceberg.
+⚡ Tecnologia, quando bem aplicada, transforma realidades e salva vidas.
+⚡ A técnica Pomodoro (25 min de foco + 5 min de pausa) não é só eficaz — é essencial para manter a clareza mental e evitar o esgotamento.
+⚡ Dominar conceitos fundamentais (algoritmos, estruturas de dados, arquitetura) é uma base para surfar qualquer onda tecnológica — mesmo que ainda nem existam.
 
 ---
 ## 📚 Aprendizado Contínuo
+_penso :_
+Não pare de aprender. Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
-> **Aprender é uma jornada sem fim.** Não se trata apenas de consumir informação, mas de transformar conhecimento em ferramentas reais — usadas quando desafios complexos exigem criatividade, lógica e visão.
+Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
 
-🔍 **Seja curioso.** Perguntas boas abrem portas melhores que respostas prontas.  
-🚀 **Busque o desconforto.** Crescemos onde o conhecimento acaba e a dúvida começa.  
-🎯 **Pratique com propósito.** Cada projeto, erro e experimento é um tijolo no seu futuro.
+Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você não entende.
+É assim que você aprende e cresce (muito).
 
 ---
 ## 🌐 Vamos nos Conectar?
@@ -104,13 +107,9 @@ Atualmente, me aprofundo em tecnologias modernas com foco em:
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
 
-
-
-
-
 **_Música durante o trabalho  _** 
 <a href="https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
 
-Ge.T_v30 
+Ge.T_v32 
