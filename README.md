@@ -52,8 +52,8 @@ Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você 
 ## 🌐 Vamos nos Conectar?
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/getavares) 
+<a href="https://www.linkedin.com/in/rogtavares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.behance.net/getavares" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> 
 <a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
@@ -114,4 +114,4 @@ Escolha um novo desafio, É CORRE atrás de algo que você não sabe, que você 
 
 
 
-Ge.T_v29 
+Ge.T_v30 
