@@ -28,21 +28,15 @@ Atualmente, estou me aprofundando em tecnologias modernas com foco em:
 
 ## ⚡ Curiosidades RT
 
-⚡ Java hoje é infinitamente mais poderoso do que há 25 anos — e tive a particularidade de testemunhar essa evolução.
+⚡ Programo desde antes da nuvem existir como a conhecemos hoje — vi o Java sair de aplicações desktop para arquiteturas de microsserviços na AWS.
 
-⚡ Os empregos do futuro não serão apenas melhores, mas também mais humanos, criativos e centrados em propósito.
+⚡ Reservo pelo menos 30% do meu tempo para estudo e experimentação — aprendizado contínuo é parte do trabalho, não um extra.
 
-⚡ Aprendizado contínuo deixado de ser opcional: pesquisa pelo menos 30% do seu tempo em estudo e experimentação.
+⚡ Uso IA Generativa como parceira de desenvolvimento no dia a dia, não como atalho — revisando, testando e entendendo cada linha que ela sugere.
 
-⚡ A IA Generativa está redefinindo o desenvolvimento de software. Use-a como parceira, não como substituta.
+⚡ Fundamentos (algoritmos, estruturas de dados, arquitetura) importam mais do que a stack da moda — são a base que sobrevive a qualquer mudança de tecnologia.
 
-⚡ As máquinas já superaram a velocidade humana em tarefas específicas — e essa é apenas a ponta do iceberg.
-
-⚡ Tecnologia, quando bem aplicada, transforma realidades e salva vidas.
-
-⚡ A técnica Pomodoro (25 min de foco + 5 min de pausa) não é só eficaz — é essencial para manter a clareza mental e evitar o esgotamento.
-
-⚡ Dominar conceitos fundamentais (algoritmos, estruturas de dados, arquitetura) é uma base para surfar qualquer onda tecnológica — mesmo que ainda nem existam.
+⚡ Clareza mental sob pressão não é sorte, é método: Pomodoro (25 min de foco + 5 de pausa) no dia a dia.
 
 ---
 ## 📚 Aprendizado Contínuo
@@ -115,4 +109,4 @@ O crescimento acontece fora da zona de conforto.
 
 
 
-Ge.T_v35
+Ge.T_v41
