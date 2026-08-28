@@ -1,10 +1,12 @@
 # 👨‍💻 Rogério Tavares
 
-**Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
+**Software Engineer & SRE | AWS Cloud & Backend | Prevenção a Fraude | DevOps & Terraform**
 
 <div dir="auto"></div>
 
-🎯 Programador há mais de 30 anos, voltei para a área de TI depois de um longo hiato — e aos **49 anos**, finalmente realizei o sonho de estudar formalmente na área. Encontrei um mundo completamente transformado, recuperei o atraso e hoje sigo em ritmo acelerado de aprendizado, unindo experiência de décadas com as tecnologias mais atuais.
+🎯 Atuo em engenharia de software e SRE, com foco em Cloud AWS, backend e prevenção a fraudes no Itaú Unibanco — unindo tecnologia, resiliência e aprendizado constante.
+
+Autodidata por essência e PcD, encaro cada desafio com firmeza: idade física é só um número — o que importa é se manter jovem na mente e em movimento.
 
 </div>
 
@@ -12,16 +14,15 @@
 
 ## 🚀 Em Constante Evolução
 
-Atualmente, me aprofundo em tecnologias modernas com foco em:
+Atualmente, estou me aprofundando em tecnologias modernas com foco em:
 
 - ☁️ **AWS (Amazon Web Services)**
-- 🌐 **APIs RESTful**
-- ☕ **Spring Boot**
-- 🧩 **Microserviços**
-- 🔧 **DevOps e Integrações**
-- 📊 **Datadog e Observabilidade**
-- 🤖 **Inteligência Artificial Generativa**
-- 🧠 **Salesforce**
+- 🏗️ **Terraform & Infraestrutura como Código**
+- 🛡️ **Prevenção a Fraudes**
+- ☕ **Backend Java (Spring Boot, Microsserviços, APIs RESTful)**
+- 🔧 **DevOps & SRE**
+- 🧪 **TDD & Testes Automatizados**
+- 🤖 **IA Generativa & Agentes de Código Autônomos**
 
 ---
 
