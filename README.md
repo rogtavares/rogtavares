@@ -16,7 +16,8 @@ Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mun
 - ⚡ Curiosidade_5: Acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
 
 
-_penso : 
+_
+penso : 
 Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
 
 Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
