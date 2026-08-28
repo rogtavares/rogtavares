@@ -4,9 +4,7 @@
 
 <div dir="auto"></div>
 
-🎯 Sempre sonhei em estudar na área de TI, e realizei esse sonho aos **49 anos**.  
-Há mais de 30 anos eu já programava, mas com o tempo, perdi a paixão pela tecnologia.  
-Ao retornar, percebi o quanto o mundo havia evoluído: **estava com 23 anos de atraso** — mas com uma vontade imensa de recuperar o tempo perdido!
+🎯 Programador há mais de 30 anos, voltei para a área de TI depois de um longo hiato — e aos **49 anos**, finalmente realizei o sonho de estudar formalmente na área. Encontrei um mundo completamente transformado, recuperei o atraso e hoje sigo em ritmo acelerado de aprendizado, unindo experiência de décadas com as tecnologias mais atuais.
 
 </div>
 
