@@ -1,35 +1,65 @@
+# 👨‍💻 Rogério Tavares
+
+**Desenvolvedor de Software | Apaixonado por Design Gráfico 3D | Autodidata em Evolução Constante**
+
+<div dir="auto"></div>
+
+🎯 Sempre sonhei em estudar na área de TI, e realizei esse sonho aos **49 anos**.  
+Há mais de 30 anos eu já programava, mas com o tempo, perdi a paixão pela tecnologia.  
+Ao retornar, percebi o quanto o mundo havia evoluído: **estava com 23 anos de atraso** — mas com uma vontade imensa de recuperar o tempo perdido!
+
+</div>
+
+---
+
+## 🚀 Em Constante Evolução
+
+Atualmente, me aprofundo em tecnologias modernas com foco em:
+
+- ☁️ **AWS (Amazon Web Services)**
+- 🌐 **APIs RESTful**
+- ☕ **Spring Boot**
+- 🧩 **Microserviços**
+- 🔧 **DevOps e Integrações**
+- 📊 **Datadog e Observabilidade**
+- 🤖 **Inteligência Artificial Generativa**
+- 🧠 **Salesforce**
+
+---
+
+## ⚡ Curiosidades RT
+
+⚡ Java hoje é infinitamente mais poderoso do que há 25 anos — e tive a particularidade de testemunhar essa evolução.
+
+⚡ Os empregos do futuro não serão apenas melhores, mas também mais humanos, criativos e centrados em propósito.
+
+⚡ Aprendizado contínuo deixado de ser opcional: pesquisa pelo menos 30% do seu tempo em estudo e experimentação.
+
+⚡ A IA Generativa está redefinindo o desenvolvimento de software. Use-a como parceira, não como substituta.
+
+⚡ As máquinas já superaram a velocidade humana em tarefas específicas — e essa é apenas a ponta do iceberg.
+
+⚡ Tecnologia, quando bem aplicada, transforma realidades e salva vidas.
+
+⚡ A técnica Pomodoro (25 min de foco + 5 min de pausa) não é só eficaz — é essencial para manter a clareza mental e evitar o esgotamento.
+
+⚡ Dominar conceitos fundamentais (algoritmos, estruturas de dados, arquitetura) é uma base para surfar qualquer onda tecnológica — mesmo que ainda nem existam.
+
+---
+## 📚 Aprendizado Contínuo
+_penso :_
+Aprender é um processo contínuo — não um marco a ser atingido. Conhecimento só tem valor quando aplicado: transforme-o em ferramentas para resolver problemas reais.
+
+Mantenha uma curiosidade: é o motor da evolução técnica.
+Busque progresso o que você não domina.
+O crescimento acontece fora da zona de conforto.
+
+---
+## 🌐 Vamos nos Conectar?
 
 
-"Sou desenvolvedor de software e apaixonado por design gráfico 3D. Autodidata por natureza, valorizo a habilidade de aprender de forma independente, algo essencial no mundo atual.
-
-Sempre tive o sonho de estudar na área de TI, e consegui realizá-lo aos 49 anos. Já havia programado há 30 anos, mas, com o tempo, perdi a paixão pela área. 
-Ao retomar o desenvolvimento, percebi que estava com 25 anos de atraso — o mundo havia mudado  muito radicalmente!"
-
-
-
-📚 Sempre estudando e evoluindo em tecnologias como  AWS , Salesforce , Spring Boot, API RESTful e DevOps.
-
-- ⚡ Curiosidade_1: O Java atual é muito mais avançado que o Java de 25 anos atrás. Eu pude testemunhar isso!
-- ⚡ Curiosidade_2: Os empregos do futuro serão ainda melhores do que os empregos de hoje.
-- ⚡ Curiosidade_3: Seu times - e você - devem gastar pelo menos 30% do tempo em treinamento e aprendizado.
-- ⚡ Curiosidade_4: Não seja inimigo do IA As ferramentas de programação de IA generativa estão evoluindo muito rápido.
-- ⚡ Curiosidade_5: Acredito fortemente que "as máquinas são capazes de ultrapassar os limites da velocidade humana no futuro.
-
-
-_
-penso : 
-Não pare de aprender . Aprender é uma jornada e potencialmente nunca deve acabar. É essencial colocar essa experiência em prática e usá-la como uma caixa de ferramentas quando casos de uso reais exigem que seu conhecimento o ajude.
-
-Seja curioso . A curiosidade e os ganchos nos levam a ser ambiciosos e a manter esse sentimento.
-
-Escolha um novo desafio, É CORRE atrras. 
-
-
-
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/getavares) 
+<a href="https://www.linkedin.com/in/rogtavares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.behance.net/getavares" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> 
 <a href="https://instagram.com/rogtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
@@ -81,13 +111,9 @@ Escolha um novo desafio, É CORRE atrras.
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
 
-
-
-
-
 **_Música durante o trabalho  _** 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358)
+<a href="https://open.spotify.com/playlist/0MTmIi3d0BqsWFr97VnEm2?si=a17b345188ed4358" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
 
-Ge.t_v16
+Ge.T_v35
