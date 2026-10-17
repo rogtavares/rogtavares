@@ -44,8 +44,8 @@ Autodidata por essência. PCD com deficiência auditiva bilateral — comunico-m
 **Backend & Desenvolvimento**
 — Java & Spring Boot  
 — APIs REST & Microsserviços  
-— Integrações sync/async (SQS/SNS)  
-— Python & automação
+— Integrações (SQS/SNS)  
+— Python
 
 </td>
 <td valign="top" width="50%">
@@ -119,5 +119,5 @@ Aprender é processo, não marco. Conhecimento só vale quando aplicado — tran
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,50:FF6A00,100:0D0221&height=120&section=footer" width="100%"/>
 
-<sub>build · Ge.T_v41</sub>
+<sub>build · Ge.T_v42</sub>
 </div>
