@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF6A00,100:FF2A6D&height=190&section=header&text=ROG%C3%89RIO%20TAVARES&fontSize=38&fontColor=00FFF9&fontAlignY=36&desc=Backend%20%2F%20SRE%20Engineer%20%7C%20Java%20%7C%20AWS&descAlignY=58&descSize=16&descColor=E6E6E6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=00FFF9&background=00000000&center=true&vCenter=true&width=640&lines=Backend+Engineer+%26+SRE;Java+%7C+Spring+Boot+%7C+APIs+%2F+Microsservi%C3%A7os;Datadog+%7C+Terraform+%7C+Kubernetes+%7C+AWS" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=FF6A00&background=00000000&center=true&vCenter=true&width=640&lines=Backend+Engineer+%26+SRE;Java+%7C+Spring+Boot+%7C+APIs+%2F+Microsservi%C3%A7os;Datadog+%7C+Terraform+%7C+Kubernetes+%7C+AWS" alt="typing-svg" />
 
 </div>
 
